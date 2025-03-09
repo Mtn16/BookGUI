@@ -1,0 +1,9 @@
+name: BookGUI
+version: '1.0'
+main: github.Mtn16.bookGUI.BookGUI
+api-version: '1.20'
+authors: [ Mtn16 ]
+commands:
+  bookgui:
+    description: Opens book
+    usage: /bookgui <name> [player]
